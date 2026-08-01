@@ -9,7 +9,7 @@ Currently, I'm focusing my efforts on mastering scalable architectures, clean co
 * 🛠️ **Full-Cycle Ingestion:** Experienced in building systems from front-end interfaces to database integration and hardware communication (RFID/Arduino).
 * ⚙️ **Agile Practices:** Used to working in collaborative team environments using SCRUM and Git/GitHub workflows.
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 * **Languages:** Java, C, TypeScript, JavaScript
 * **Web & UI:** React, Tailwind CSS, Styled-components, Figma
 * **Databases:** PostgreSQL, MongoDB, Oracle SQL
