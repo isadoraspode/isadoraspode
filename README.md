@@ -16,8 +16,8 @@ Currently, I'm focusing my efforts on mastering scalable architectures, clean co
 * **Tools & DevOps:** Docker, AWS, Git
 
 ## Current Focus
-* 🧠 Deepening my knowledge in Data Structures (Maps, Sets) and Algorithm Complexity (Big O).
+* 🧠 Deepening my knowledge in Data Structures and Algorithm Otimization.
 * 🏗️ Developing custom React component libraries and full-stack side projects.
 
 ---
-📫 **How to reach me:** [isadoraspode1@gmail.com](mailto:isadoraspode1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/isadora-spode-409872381)
+📫 **Connect with me:** [isadoraspode1@gmail.com](mailto:isadoraspode1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/isadora-spode-409872381)
