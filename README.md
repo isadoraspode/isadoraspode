@@ -14,6 +14,7 @@ Currently, I'm focusing my efforts on mastering scalable architectures, clean co
 * **Web & UI:** React, Tailwind CSS, Styled-components, Figma
 * **Databases:** PostgreSQL, MongoDB, Oracle SQL
 * **Tools & DevOps:** Docker, AWS, Git
+* **Corporate tools by Santander:** Microsoft Office, Power BI.
 
 ## Current Focus
 * 🧠 Deepening my knowledge in Data Structures and Algorithm Otimization.
