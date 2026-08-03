@@ -10,10 +10,10 @@ Currently, I'm focusing my efforts on mastering scalable architectures, clean co
 * ⚙️ **Agile Practices:** Used to working in collaborative team environments using SCRUM and Git/GitHub workflows.
 
 ## Tech Stack & Tools
-* **Languages:** Java, TypeScript, JavaScript, C
+* **Languages:** Java, TypeScript, C
 * **Web & UI:** React, Tailwind CSS, Styled-components, Figma
 * **Databases:** PostgreSQL, MongoDB, Oracle SQL
-* **Tools & DevOps:** Docker, AWS, Git
+* **Tools & DevOps:** Docker, Git
 * **Corporate tools by Santander:** Microsoft Office, Power BI.
 
 ## Current Focus
