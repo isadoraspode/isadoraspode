@@ -2,7 +2,7 @@
 
 I am a Software Engineering student at PUCRS (4th semester), passionate about technology and software development. 
 
-Currently, I'm focusing my efforts on mastering scalable architectures, clean code, and improving my data structures and algorithms foundations.
+Currently, I'm focusing my efforts on mastering clean code and algorithms foundations.
 
 ## About Me
 * 💻 **Software Developer** with practical experience in academic and experimental projects (AGES - PUCRS).
