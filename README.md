@@ -11,9 +11,13 @@ I'm currently pursuing Google's Data Analytics Professional Certificate on Cours
 ## 📊 Data Analytics & Business Intelligence
 
 Power BI: Dashboard development, data visualization, and communicating insights.
+
 Excel: Spreadsheet organization, data manipulation, and analysis.
+
 Data Analytics: Developing skills in data preparation, analysis, interpretation, and data-driven problem-solving.
+
 SQL & Databases: Academic and project experience working with relational databases, including PostgreSQL.
+
 AI tools: Claude, Copilot, ChatGPT (query writing, debugging and productivity)
 
 # Featured Data Analytics Project
